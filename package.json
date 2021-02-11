@@ -1,0 +1,15 @@
+{
+  "name": "basket_app",
+  "version": "1.0.0",
+  "description": "Learning project to create a basket application for a web application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Conneely",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
